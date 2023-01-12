@@ -1,0 +1,14 @@
+
+j
+java:S20959"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(žº¼·úÿÿÿÿ
+e
+java:S2095K"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(êò¯Î
+e
+java:S2095l"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÄèûÓ
+j
+java:S2095Y"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.( ¸‡¿üÿÿÿÿ
+e
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¥ÅÊÀ
+^
+java:S3252"HUse static access with "java.sql.Statement" for "RETURN_GENERATED_KEYS".(¥ÅÊÀ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(ƒƒŠæ
